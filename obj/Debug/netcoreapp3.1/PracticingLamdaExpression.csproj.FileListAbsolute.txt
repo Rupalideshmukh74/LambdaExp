@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\PracticingLamdaExpression\bin\Debug\netcoreapp3.1\PracticingLamdaExpression.exe
+C:\Users\admin\source\repos\PracticingLamdaExpression\bin\Debug\netcoreapp3.1\PracticingLamdaExpression.deps.json
+C:\Users\admin\source\repos\PracticingLamdaExpression\bin\Debug\netcoreapp3.1\PracticingLamdaExpression.runtimeconfig.json
+C:\Users\admin\source\repos\PracticingLamdaExpression\bin\Debug\netcoreapp3.1\PracticingLamdaExpression.runtimeconfig.dev.json
+C:\Users\admin\source\repos\PracticingLamdaExpression\bin\Debug\netcoreapp3.1\PracticingLamdaExpression.dll
+C:\Users\admin\source\repos\PracticingLamdaExpression\bin\Debug\netcoreapp3.1\PracticingLamdaExpression.pdb
+C:\Users\admin\source\repos\PracticingLamdaExpression\obj\Debug\netcoreapp3.1\PracticingLamdaExpression.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\PracticingLamdaExpression\obj\Debug\netcoreapp3.1\PracticingLamdaExpression.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\PracticingLamdaExpression\obj\Debug\netcoreapp3.1\PracticingLamdaExpression.AssemblyInfo.cs
+C:\Users\admin\source\repos\PracticingLamdaExpression\obj\Debug\netcoreapp3.1\PracticingLamdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PracticingLamdaExpression\obj\Debug\netcoreapp3.1\PracticingLamdaExpression.dll
+C:\Users\admin\source\repos\PracticingLamdaExpression\obj\Debug\netcoreapp3.1\PracticingLamdaExpression.pdb
+C:\Users\admin\source\repos\PracticingLamdaExpression\obj\Debug\netcoreapp3.1\PracticingLamdaExpression.genruntimeconfig.cache
